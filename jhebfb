@@ -1,0 +1,9 @@
+<doctype Html>
+<html lang="pt-BR">
+   <head>
+    <title>Introdução ao canvas</title>
+    <meta charset="UTF-8">
+   </head>
+   <body>
+    <canvas id="myCanvas" width="200" height="100"
+    style="background-color: ;"
